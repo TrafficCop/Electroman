@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AttackManager
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ remove()
+comment3.params=clss
+comment3.target=boolean\ amIshot(java.lang.Class)
+comment4.params=clss
+comment4.target=void\ kill(java.lang.Class)
+comment5.params=
+comment5.target=void\ killEnemies()
+numComments=6
