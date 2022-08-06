@@ -1,5 +1,5 @@
 # Electroman
-Game where you fight a bunch of bosses to win. If game jar does not work, try running the program folder in greenfoot.
+Game I made a while back where you fight a bunch of bosses to win. If game jar does not work, try running the program folder in greenfoot.
 
 Some pictures of the bosses:
 ![boss1png](https://user-images.githubusercontent.com/103712563/183239010-fb24dae7-3e82-4718-ba68-520b0800daab.png)
